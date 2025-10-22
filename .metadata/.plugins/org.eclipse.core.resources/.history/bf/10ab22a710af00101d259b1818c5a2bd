@@ -1,0 +1,37 @@
+package test;
+
+import java.util.Scanner;
+
+public class Example2 {
+
+	public static void main(String[] args) {
+
+		Scanner sc = new Scanner();
+		
+		/*
+		 * String name = sc.nextLine();
+		 * int age = sc.nextLine();
+		 * String address =
+		 * sc.nextLine();
+		 */
+		
+		sc.name = "선하영";
+		sc.age = 20;
+		sc.address = "서울";
+		
+		
+		System.out.println("이름 : " + sc.name);
+		System.out.println("나이 : " + sc.age);
+		System.out.println("주소 : " + sc.address);
+		
+		System.out.println("end!!");
+		
+	}
+
+}
+
+	class Scanner{
+		String name;
+		int age;
+		String address;
+	}

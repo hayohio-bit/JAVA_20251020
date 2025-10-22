@@ -1,0 +1,27 @@
+package test;
+
+import java.util.Scanner;
+
+public class Example3 {
+
+	public static void main(String[] args) {
+
+		Scanner sc = new Scanner(System.in);
+				
+		String name = sc.nextLine();
+		System.out.println("이름은 : " + name);
+		
+		//long double
+		int age = sc.nextInt();
+		System.out.println("나이는 : " + age);
+		
+		String address = sc.nextLine();
+		System.out.println("주소는 : " + address);
+		
+		double weight = Double.parseDouble(sc.nextLine());
+		System.out.println("몸무게는 : " + weight);
+		
+		System.out.println("end!!");
+		
+	}
+}
