@@ -2,8 +2,17 @@
 <section name="Workbench">
 	<item key="hasShownOverlayPopupBefore" value="true"/>
 	<section name="java.lang.Class">
-		<item key="replaceBarOpen" value="false"/>
+		<item key="replaceBarOpen" value="true"/>
 		<list key="findhistory">
+			<item value="fare"/>
 		</list>
+		<list key="replacehistory">
+			<item value="fee"/>
+			<item value="ree"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="304"/>
+		<item key="DIALOG_Y_ORIGIN" value="387"/>
 	</section>
 </section>
