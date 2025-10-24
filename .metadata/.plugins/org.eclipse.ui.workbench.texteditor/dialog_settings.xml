@@ -4,9 +4,14 @@
 	<section name="java.lang.Class">
 		<item key="replaceBarOpen" value="true"/>
 		<list key="findhistory">
+			<item value="prantln"/>
+			<item value="i"/>
+			<item value="break"/>
 			<item value="fare"/>
 		</list>
 		<list key="replacehistory">
+			<item value="println"/>
+			<item value="a"/>
 			<item value="fee"/>
 			<item value="ree"/>
 		</list>
