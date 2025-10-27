@@ -1,4 +1,4 @@
-package ex251023;
+package ex01;
 
 /*
  * ++A : 선위 연산자(증감)

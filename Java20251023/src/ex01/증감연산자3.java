@@ -1,4 +1,4 @@
-package ex251023;
+package ex01;
 
 /*
  * ++A : 선위 연산자(증강)
@@ -7,7 +7,7 @@ package ex251023;
  * B-- : 
  */
 
-public class 증감연산자2 {
+public class 증감연산자3 {
 
 	public static void main(String[] args) {
 

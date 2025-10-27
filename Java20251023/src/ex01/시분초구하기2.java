@@ -1,4 +1,4 @@
-package ex251023;
+package ex01;
 
 public class 시분초구하기2 {
 

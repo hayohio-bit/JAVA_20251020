@@ -1,4 +1,4 @@
-package ex251023;
+package ex01;
 
 public class if조건문06해설 {
 
