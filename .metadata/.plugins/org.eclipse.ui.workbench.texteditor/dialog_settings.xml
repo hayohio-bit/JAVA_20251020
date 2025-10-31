@@ -2,8 +2,9 @@
 <section name="Workbench">
 	<item key="hasShownOverlayPopupBefore" value="true"/>
 	<section name="java.lang.Class">
-		<item key="replaceBarOpen" value="true"/>
+		<item key="replaceBarOpen" value="false"/>
 		<list key="findhistory">
+			<item value="Singleton"/>
 			<item value="member"/>
 			<item value="prantln"/>
 			<item value="i"/>
@@ -11,6 +12,7 @@
 			<item value="fare"/>
 		</list>
 		<list key="replacehistory">
+			<item value="Test_Singleton"/>
 			<item value="Member"/>
 			<item value="println"/>
 			<item value="a"/>
