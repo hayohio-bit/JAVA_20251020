@@ -1,4 +1,4 @@
-package 문제01;
+package ex01_연습문제;
 
 public class Circle extends Shape {
 

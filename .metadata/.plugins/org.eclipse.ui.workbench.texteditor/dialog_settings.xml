@@ -4,6 +4,7 @@
 	<section name="java.lang.Class">
 		<item key="replaceBarOpen" value="true"/>
 		<list key="findhistory">
+			<item value="Object"/>
 			<item value="public"/>
 			<item value="A"/>
 			<item value="&quot;A&quot;"/>
@@ -15,6 +16,7 @@
 			<item value="fare"/>
 		</list>
 		<list key="replacehistory">
+			<item value="T"/>
 			<item value="C"/>
 			<item value="Test_Singleton"/>
 			<item value="Member"/>

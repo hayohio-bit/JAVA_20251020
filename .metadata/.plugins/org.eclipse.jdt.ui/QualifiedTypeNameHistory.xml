@@ -7,4 +7,7 @@
     <fullyQualifiedTypeName name="문제.Car"/>
     <fullyQualifiedTypeName name="ex04_연습_인터페이스.Printer"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="ex01.BoxMain"/>
+    <fullyQualifiedTypeName name="ex01.Car"/>
 </qualifiedTypeNameHistroy>
