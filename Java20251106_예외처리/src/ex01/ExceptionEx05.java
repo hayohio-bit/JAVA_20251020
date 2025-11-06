@@ -1,4 +1,4 @@
-package ex02;
+package ex01;
 
 public class ExceptionEx05 {
 	public static void main(String[] args) {
