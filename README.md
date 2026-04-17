@@ -1078,4 +1078,5 @@ public void withdraw(double amount) throws InsufficientBalanceException {
 
 ---
 
-> 📌 **참고:** 이 문서는 Java SE 기본 문법과 핵심 개념을 정리한 것입니다. Spring Framework, JDBC, 멀티스레딩, Stream API, Lambda, 제네릭(Generic) 등 심화 주제는 별도 문서에서 다루는 것을 권장합니다.
+> 📌 **참고:** 이 문서는 Java SE 기본 문법과 핵심 개념을 정리한 것입니다. Spring Framework, JDBC, 멀티스레딩, Stream API, Lambda, 제네릭(Generic) 등 심화 주제는 별도 문서에서 다룰 예정입니다.
+
